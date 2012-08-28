@@ -1,7 +1,9 @@
 jcouchbase
 ==========
 
-Quick and dirty Couchbase jruby wrapper gem
+Quick and dirty Couchbase jruby wrapper gem.
+
+Use for Couchbase 2.x series.
 
 installation
 ============
