@@ -11,7 +11,27 @@ Gem::Specification.new do |s|
 
   # = MANIFEST =
   s.files = %w[
+    Gemfile
     README.md
+    Rakefile
+    jcouchbase.gemspec
+    lib/jcouchbase.rb
+    lib/jcouchbase/jars/commons-codec-1.5.jar
+    lib/jcouchbase/jars/commons-codec-1.6.jar
+    lib/jcouchbase/jars/commons-logging-1.1.1.jar
+    lib/jcouchbase/jars/couchbase-client-1.0.2.jar
+    lib/jcouchbase/jars/fluent-hc-4.2.1.jar
+    lib/jcouchbase/jars/httpclient-4.2.1.jar
+    lib/jcouchbase/jars/httpclient-cache-4.2.1.jar
+    lib/jcouchbase/jars/httpcore-4.2.1.jar
+    lib/jcouchbase/jars/httpcore-ab-4.2.1.jar
+    lib/jcouchbase/jars/httpcore-nio-4.2.1.jar
+    lib/jcouchbase/jars/httpmime-4.2.1.jar
+    lib/jcouchbase/jars/jettison-1.1.jar
+    lib/jcouchbase/jars/netty-3.2.0.Final.jar
+    lib/jcouchbase/jars/spymemcached-2.8.0.jar
+    lib/jcouchbase/jcouchbase.rb
+    lib/jcouchbase/version.rb
   ]
   # = MANIFEST =
 
