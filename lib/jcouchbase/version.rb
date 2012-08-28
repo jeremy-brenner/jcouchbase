@@ -1,3 +1,3 @@
-module Couchbase
-  VERSION = '0.1.1'
+class Couchbase
+  VERSION = '0.1.2'
 end
