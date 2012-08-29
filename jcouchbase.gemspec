@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name              = 'jcouchbase'
-  s.version           = '0.1.3'
-  s.date              = '2012-08-28'
+  s.version           = '0.1.4'
+  s.date              = '2012-08-29'
   s.platform          = Gem::Platform::RUBY
   s.authors           = ["Jeremy J Brenner"]
   s.email             = ["jeremyjbrenner@gmail.com"]
