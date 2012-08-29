@@ -13,7 +13,7 @@ gem install jcouchbase
 usage
 =====
 
-require 'couchbase'
+require 'jcouchbase'
 
 c = Couchbase.new('http://xocouch01.localcloud:8091/pools', 'default', 'secretpassword' )
 
